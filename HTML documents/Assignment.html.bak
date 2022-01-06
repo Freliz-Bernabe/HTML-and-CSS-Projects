@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head>
+	<title>Dogs</title>
+	<p>Man's Best Friend</p>
+</head>
+
+<body>
+	All About Dogs.
+<nav>
+<a href="Assignment.html">Home</a>|
+<a href="Dog.html">Dog Picture</a>|
+<a href="Dog_Video.html">Dog Video</a>|
+</nav>
+	<main>
+	<h1>Golden Retriever</h1>
+	<img src="Golden Retriever.jpg"></img>
+	<h3>Breed Information</h3>
+	<a href="https://dogtime.com/dog-breeds/golden-retriever#/slide/1">Description</a>
+	</main>
+	
+	<footer>Miki Bernabe</footer>
+</body>
+</html>
