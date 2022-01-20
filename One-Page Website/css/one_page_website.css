@@ -1,0 +1,31 @@
+/* =================================
+    GENERIC STYLES
+====================================*/
+
+body {
+    font-family: Tahoma;
+    font-size: 1cm;
+}
+
+.reservation form {
+    font-size: 15px;
+    outline: none;
+    font-weight: 600;
+    color: #8D8E8F;
+    padding: 12px 12px;
+    width: 70%;
+    border: 1px solid #808080;
+    margin: 2% auto;
+    border-radius: 7px;
+    background: rgb(227,222,222);
+    box-shadow: 2px 3px 3px 0px rgb(0, 0, 0, 0.3);
+    font-family: 'Raleway', sans-serif;
+}
+
+.reservation input(type="text"):hover {
+    box-shadow: 0 0 18px rgba(100,65,0,.8);
+}
+
+.form-spacer {
+    padding: 30px 39px;
+}
